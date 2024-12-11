@@ -1,0 +1,430 @@
+#divA{
+    height: 80vh;
+    width: 100%;
+    background-image: url("bk.png");
+    color: aliceblue;
+    position: absolute;
+}
+#h1A{
+    position: absolute;
+    text-transform: uppercase;
+    font-size: 70px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    left: 200px;
+    top: 30px;
+}
+#pA{
+    position: absolute;
+    font-size: 30px;
+    left: 200px;
+    top: 250px;
+}
+#bA{
+    position: absolute;
+    left: 200px;
+    bottom: 60px;
+    padding: 20px 70px;
+    font-size: 15px;
+    color: aliceblue;
+    background-color: coral;
+    border-radius: 40px;
+    
+}
+#I1{
+    position: absolute;
+    right: 50px;
+    top: 80px;
+    border-radius: 0px;
+}
+
+
+#divB{
+    height: 70vh;
+    width: 100%;
+    background-image: url("I1.png");
+    background-repeat: no-repeat;
+    background-size:50vh 50vh;
+    position: absolute;
+    top:80vh;
+}
+#h1B{
+    position: absolute;
+    text-transform: uppercase;
+    font-size: 40px;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    top: 70px;
+    left: 50px;
+}
+#pB{
+    position: absolute;
+    font-size: 25px;
+    left: 50px;
+    top: 150px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#bB{
+    position: absolute;
+    left: 50px;
+    bottom: 60px;
+    padding: 20px 70px;
+    font-size: 15px;
+    color: aliceblue;
+    background-color: coral;
+    border-radius: 40px;
+    
+}
+#I2{
+    position: absolute;
+    right: 50px;
+    top: 60px;
+    border-radius: 0px;
+}
+
+
+#divC{
+    height: 150vh;
+    width: 100%;
+    color: white;
+    background-image: url("bk.png");
+    position: absolute;
+    top:150vh;
+
+    
+}
+#h1C{
+    position: absolute;
+    text-transform: uppercase;
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    top: 30px;
+  right: 400px;
+    text-align: center;
+}
+#pC{
+    position: absolute;
+    font-size: 20px;
+    left: 50px;
+    top: 150px;
+    text-align: center;
+    right: 150px;
+}
+#bC{
+    position: absolute;
+    left: 50px;
+    bottom: 60px;
+    padding: 20px 70px;
+    font-size: 15px;
+    color: aliceblue;
+    background-color: coral;
+    border-radius: 40px;
+    
+}
+#img1{
+    background-color: white;
+    border-radius: 50%;
+    position: absolute;
+    top: 300px;
+    left: 100px;
+    padding: 50px;
+}
+#img2{
+    background-color: white;
+    border-radius: 50%;
+    position: absolute;
+    top: 300px;
+    left: 450px;
+    padding: 50px;
+}
+#img3{
+    background-color: white;
+    border-radius: 50%;
+    position: absolute;
+    top: 300px;
+    left: 800px;
+    padding: 50px;
+}
+#img4{
+    background-color: white;
+    border-radius: 50%;
+    position: absolute;
+    top: 300px;
+    left: 1150px;
+    padding: 50px;
+}
+#img5{
+    background-color: white;
+    border-radius: 50%;
+    position: absolute;
+    top: 650px;
+    left: 100px;
+    padding: 50px;
+}
+#img6{
+    background-color: white;
+    border-radius: 50%;
+    position: absolute;
+    top: 650px;
+    left: 450px;
+    padding: 50px;
+}
+#img7{
+    background-color: white;
+    border-radius: 50%;
+    position: absolute;
+    top: 650px;
+    left: 800px;
+    padding: 50px;
+
+}
+#img8{
+    background-color: white;
+    border-radius: 50%;
+    position: absolute;
+    top: 650px;
+    left: 1150px;
+    padding: 50px;
+}
+#bC{
+    position: absolute;
+    left: 650px;
+   
+  
+    padding: 20px 70px;
+    font-size: 15px;
+    color: aliceblue;
+    background-color: coral;
+    border-radius: 40px;
+}
+
+
+#divD{
+    height: 150vh;
+    width: 100%;
+    color: white;
+    background-image: url("bk.png");
+    position: absolute;
+    top:300vh;
+    
+}
+#h1D{
+    position: absolute;
+    text-transform: uppercase;
+    font-size: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    top: 0px;
+  right: 630px;
+    text-align: center;
+}
+.input{
+    color: aliceblue;
+    border: solid 2px white;
+    background-image: url("bk.png");
+    padding: 35px 120px;
+    margin: 20px;
+}
+textarea{
+    color: aliceblue;
+    border: solid 2px white;
+    background-image: url("bk.png");
+    padding: 30px 120px ;
+    margin: 20px;
+}
+#tableD{
+    position: absolute;
+    top: 80px;
+    left: 300px;
+}
+placeholder{
+    color: aliceblue;
+    font-size: 20px;
+}
+#bD{
+    position: absolute;
+    left: 660px;
+    top: 350px;
+   
+  
+    padding: 20px 70px;
+    font-size: 15px;
+    color: aliceblue;
+    background-color: coral;
+    border-radius: 40px;
+}
+#ID{
+    position: absolute;
+    left: 450px;
+    top: 500px;
+}
+
+
+#divE{
+    height: 600px;
+    width: 100%;
+    background-image: url("bk.png");
+    position: absolute;
+    top: 440vh;
+}
+.inpLast{
+    background-color: aliceblue;
+    color: black;
+    padding: 20px 50px;
+    margin: 10px 0px;
+    border-radius: 20px;
+}
+#bE{
+   
+   
+    padding: 20px 95px;
+    font-size: 15px;
+    color: aliceblue;
+    background-color: coral;
+    border-radius: 20px;
+    
+}
+#divE{
+    width: 100%;
+    color: white;
+    position: absolute;
+    background-image: url("bk.png");
+  
+}
+#divE1{
+    height: 300px;
+    
+    position: absolute;
+    top: 0px;
+    left: 50px;
+    font-size: 20px;
+}
+#divE2{
+    height: 300px;
+    width: 300px;
+    
+    position: absolute;
+    top: 0px;
+    left: 420px;
+    font-size: 20px;
+
+}
+#divE3{
+    height: 300px;
+    width: 300px;
+    
+    position: absolute;
+    top: 0px;
+    right: 420px;
+    font-size: 20px;
+}
+#divE4{
+    height: 300px;
+    width: 300px;
+    
+    position: absolute;
+    top: 0px;
+    right: 50px;
+    font-size: 20px;
+}
+#divE5{
+    height: 60px;
+    width: 80%;
+   
+    color: white;
+    position: absolute;
+    left: 90px;
+    top: 350px;
+    font-size: 20px;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}
+#nav2{
+    height: 70%;
+   
+    background-image: url("bk.png");
+    color: aliceblue;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: absolute;
+    bottom: 50px;
+    
+    writing-mode: vertical-rl;
+    transform: rotate(180deg);
+}
+::placeholder{
+    color: aqua;
+}
+#nav2{
+    width: 10%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+#navI1{
+    position: absolute;
+    left: 60px;
+    top: 40px;
+
+}
+#top1{
+    position: absolute;
+    top: 20px;
+    left: 250px;
+
+
+}
+#top2{
+    position: absolute;
+    top: 20px;
+left: 500px;
+}
+li{
+    position: relative;
+    left:-40px;
+}
+#icon1{
+    position: absolute;
+    top: 40px;
+    left:230px ;
+}
+#icon2{
+    position: absolute;
+    top: 40px;
+    left: 470px;
+}
+#icon3{
+    position: absolute;
+    top: 40px;
+    right:150px ;
+}
+#icon4{
+    position: absolute;
+    top: 40px;
+   right: 100px;
+}
+#icon5{
+    position: absolute;
+    top: 200px;
+   left: 10px;
+   font-size: 30px;
+}
+#icon6{
+    position: absolute;
+    top: 200px;
+   left: 50px;
+   font-size: 30px;
+}
+#icon7{
+    position: absolute;
+    top: 200px;
+   right: 110px;
+   font-size: 30px;
+}
+#icon8{
+    position: absolute;
+    top: 200px;
+   right: 70px;
+   font-size: 30px;
+}
